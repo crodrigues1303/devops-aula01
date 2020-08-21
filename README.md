@@ -1,1 +1,1 @@
-Primeiro repositorio da disciplina de DevOps. 
+Primeiro repositorio da disciplina de DevOps
